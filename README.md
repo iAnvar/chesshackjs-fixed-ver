@@ -1,1 +1,1 @@
-# chesshackjs
+# check hack for chess.com
